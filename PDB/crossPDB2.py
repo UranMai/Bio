@@ -2,7 +2,7 @@ from biopandas.pdb import PandasPdb
 import argparse
 from argparse import ArgumentParser
 import time
-
+#Add some comments
 def atom_connections():
     """
     CONECT section in PDB - info about atom connections in "entry" column
